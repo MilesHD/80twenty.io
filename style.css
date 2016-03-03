@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/***** Home *****/
+.home {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.home h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.home__projects- {
+  
+}
+
+.home__projects-project {
+  width: 30%;
+  display: inline-block; 
+  vertical-align: top;
+  text-align: center;
+}
